@@ -11,6 +11,7 @@
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Cris-React" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+  <img align="center" alt="Cris-Figma" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg.png">
 </div><br>
 
 ### GitHub Stats
