@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/eb/d6/3debd6982a23d8860858a41c2bd45e05.gif" width="500" />
+  <img src="https://i.pinimg.com/736x/37/2e/6a/372e6a75549cb8a0c2e309a2ea8c6756.jpg" width="500" />
 </div>
 
 ### <div align="center">Hi! I'm an Information Systems student passionate about bridging the gap between Product Design and Game Quality Assurance. I combine my background in UI/UX and front-end development to hunt bugs, advocate for digital accessibility, and ensure that games and software deliver a flawless, inclusive experience.</div>  
