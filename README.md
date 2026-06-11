@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/eb/d6/3debd6982a23d8860858a41c2bd45e05.gif" style="width: 100%" />
-</div> 
-  
+  <img src="https://i.pinimg.com/originals/3d/eb/d6/3debd6982a23d8860858a41c2bd45e05.gif" width="500" />
+</div>
 
 ### <div align="center">Hi! I'm an Information Systems student passionate about bridging the gap between Product Design and Game Quality Assurance. I combine my background in UI/UX and front-end development to hunt bugs, advocate for digital accessibility, and ensure that games and software deliver a flawless, inclusive experience.</div>  
   
