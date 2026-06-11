@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://tenor.com/rBcLt2pcJJQ.gif)" align="center" style="width: 100%" />
+<img src="<div class="tenor-gif-embed" data-postid="14634158665360406672" data-share-method="host" data-aspect-ratio="1.775" data-width="100%"><a href="https://tenor.com/view/dead-dead-demon%27s-dededede-destruction-kadode-ouran-ontan-tired-gif-14634158665360406672">Dead Dead Demon&#39;S Dededede Destruction Kadode GIF</a>from <a href="https://tenor.com/search/dead+dead+demon%27s+dededede+destruction-gifs">Dead Dead Demon&#39;S Dededede Destruction GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" align="center" style="width: 100%" />
 </div>  
   
 
