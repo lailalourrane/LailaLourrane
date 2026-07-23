@@ -4,6 +4,8 @@
 
 ### <div align="center"> Hi! I'm an Information Systems student passionate about bridging the gap between engaging UI/UX design and robust back-end architecture. I combine my front-end expertise (React, TypeScript) with a growing foundation in C# and .NET to build seamless, full-stack applications.
 🔭 Currently, I'm seeking a Junior Full-Stack Developer role or internship to apply my development and design skills to real-world projects.
+
+
 🌱 Currently studying: RESTful API architecture with ASP.NET Core (.NET 8) and integrating robust C# back-ends with dynamic React interfaces.
   
 
