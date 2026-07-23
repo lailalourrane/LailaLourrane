@@ -2,13 +2,11 @@
   <img src="https://i.pinimg.com/736x/ec/c4/d0/ecc4d0705e0796c1173cbd0bea6168c8.jpg" />
 </div>
 
-### <div align="center">Hi! I'm an Information Systems student passionate about bridging the gap between Product Design and Game Quality Assurance. I combine my background in UI/UX and front-end development to hunt bugs, advocate for digital accessibility, and ensure that games and software deliver a flawless, inclusive experience.</div>  
-  
+### <div align="center"> Hi! I'm an Information Systems student passionate about bridging the gap between engaging UI/UX design and robust back-end architecture. I combine my front-end expertise (React, TypeScript) with a growing foundation in C# and .NET to build seamless, full-stack applications.
 
-- 🔭 Currently, I'm seeking an internship opportunity in Quality Assurance (QA) to apply my analytical skills and development background to real-world projects.  
-  
+    🔭 Currently, I'm seeking a Junior Full-Stack Developer role or internship to apply my development and design skills to real-world projects.
 
-- 🌱 Currently studying: Modern QA practices and UI/UX heuristics to sharpen my bug-hunting skills across different platforms :D  
+    🌱 Currently studying: RESTful API architecture with ASP.NET Core (.NET 8) and integrating robust C# back-ends with dynamic React interfaces.
   
 
 <br/>  
